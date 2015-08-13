@@ -1,0 +1,6 @@
+name = Title hide
+description = Ctools access plugin which hides a field if string appears in title.
+package = WebWash
+core = 7.x
+
+dependencies[] = ctools
